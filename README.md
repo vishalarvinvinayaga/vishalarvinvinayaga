@@ -27,5 +27,6 @@ I'm a passionate graduate student in Computer Science at Florida Atlantic Univer
 ## 📂 Let’s Connect
 I'm always excited to collaborate on meaningful projects, especially in AI, automation, and document retrieval.
 
-- 💻 **GitHub**: [Your GitHub Profile Link]
-- 📧 **Email**: [Your Email Address]
+- 💻 **GitHub**: https://github.com/vishalarvinvinayaga
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/vishalarvin/
+- 📧 **Email**: vishalarvin.v@gmail.com
