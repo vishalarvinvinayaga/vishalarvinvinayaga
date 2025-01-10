@@ -1,20 +1,31 @@
-# Hi 👋, I'm Vishal Arvin
+# 👋 Hi there! I'm Vishal Arvin
 
-🚀 I'm a graduate student at Florida Atlantic University (FAU) passionate about AI, automation, and building impactful solutions.
+## 🌟 About Me
+I'm a passionate graduate student in Computer Science at Florida Atlantic University (FAU), specializing in AI, software engineering, and multi-agent systems. With a diverse background in electronics, communication, and software development, I enjoy working on cross-disciplinary projects that bridge technology and real-world challenges.
 
-### 👨‍💻 What I’m working on:
-- 🌟 Developing AI-powered systems like [DocuSearch](https://github.com/vishalarvin/DocuSearch)
-- 💡 Exploring multi-agent systems for resource allocation and personalized course paths.
+## 🌐 What I Do
+- 🚀 Build AI-powered systems like RAG-based chatbots and fraud detection models.
+- 🤖 Create multi-agent systems to solve real-world problems like resource allocation and personalized course path creation.
+- 🖥️ Develop end-to-end solutions with Python, Django, and React, including interactive dashboards and scalable web applications.
+- 📊 Dive into data science for insights and visualizations using Plotly, Matplotlib, and cloud platforms like AWS and GCP.
 
-### 🔧 Technologies & Tools:
-- Python, Django, React, TensorFlow, LangChain, AWS
-- Data Visualization: Plotly, Matplotlib
-- Cloud Platforms: AWS, Azure, GCP
+## 📚 Experience
+- **Graduate Assistant at FAU**: Automating departmental tasks and developing AI-driven solutions for process improvement.
+- **Software Developer at Capgemini**: Designed strategic smart placements for networking devices within buildings.
 
-### 🌱 What I’m learning:
-- Advanced LangChain workflows
-- Integrating AI into mobile apps
+## 🎓 Education
+- **Master’s in Computer Science**, FAU.
+- **Bachelor’s in Electronics and Communication**.
 
-### 💬 Let’s Connect:
-- [LinkedIn](https://linkedin.com/in/vishalarvin)
-- [Email](mailto:vishalarvin@example.com)
+## 🌟 Skills
+- **AI/ML**: TensorFlow, LangChain, Generative AI, LLMs.
+- **Backend Development**: Django, Flask, REST APIs.
+- **Frontend**: React, interactive dashboards.
+- **Data Science**: Python, Pandas, Plotly, Matplotlib.
+- **Cloud Platforms**: AWS, Azure, GCP.
+
+## 📂 Let’s Connect
+I'm always excited to collaborate on meaningful projects, especially in AI, automation, and document retrieval.
+
+- 💻 **GitHub**: [Your GitHub Profile Link]
+- 📧 **Email**: [Your Email Address]
