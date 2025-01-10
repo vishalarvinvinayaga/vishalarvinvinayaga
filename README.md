@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Vishal Arvin
 
-<!--
-**vishalarvinvinayaga/vishalarvinvinayaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a graduate student at Florida Atlantic University (FAU) passionate about AI, automation, and building impactful solutions.
 
-Here are some ideas to get you started:
+### 👨‍💻 What I’m working on:
+- 🌟 Developing AI-powered systems like [DocuSearch](https://github.com/vishalarvin/DocuSearch)
+- 💡 Exploring multi-agent systems for resource allocation and personalized course paths.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools:
+- Python, Django, React, TensorFlow, LangChain, AWS
+- Data Visualization: Plotly, Matplotlib
+- Cloud Platforms: AWS, Azure, GCP
+
+### 🌱 What I’m learning:
+- Advanced LangChain workflows
+- Integrating AI into mobile apps
+
+### 💬 Let’s Connect:
+- [LinkedIn](https://linkedin.com/in/vishalarvin)
+- [Email](mailto:vishalarvin@example.com)
